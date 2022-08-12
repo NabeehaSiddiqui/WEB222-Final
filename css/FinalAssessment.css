@@ -292,12 +292,12 @@ form {
 input[type="text"],
 input[type="email"],
 input {
-  padding: 10px;
   color: var(--black);
   border-radius: var(--boder-radius);
   border: 2px solid var(--lighter-gray);
   background-color: var(--lighter-gray);
   box-sizing: border-box;
+  height: max-content;
 }
 
 ul {
