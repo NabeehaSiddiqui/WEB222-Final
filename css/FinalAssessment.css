@@ -289,18 +289,6 @@ form {
   word-wrap: break-word;
 }
 
-input[type="text"],
-input[type="email"],
-input {
-  color: var(--black);
-  border-radius: var(--boder-radius);
-  border: 2px solid var(--lighter-gray);
-  background-color: var(--lighter-gray);
-  box-sizing: border-box;
-  height: max-content;
-  margin: auto;
-}
-
 ul {
   margin: 0;
   padding: 0 1px;
